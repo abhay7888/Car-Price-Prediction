@@ -1,4 +1,4 @@
-##🚗 Car Price Prediction – Project Summary <BR>
+# 🚗 Car Price Prediction – Project Summary <BR>
 📌 Objective: Predict the selling price of a car using machine learning based on factors like year, fuel type, and engine type.
 
 📊 Problem Solved: Helps users estimate a fair resale value of cars using data-driven predictions.
